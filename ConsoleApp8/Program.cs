@@ -12,7 +12,7 @@ namespace ConsoleApp8
         {
             int c = 0;
             Console.Write("ahihi");
-            Console.ReadKey();
+            Console.ReadKey();//ÁDSEGSDHBS
         }
     }
 }
